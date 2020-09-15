@@ -22,7 +22,7 @@ function ReturnAddress(status, result){
             district = addressComponent.district;
         return province + ' ' + city + ' ' + district;
     }else{
-        return  '未知位置';
+        return  '未知位置'; 
     }
 }
 

@@ -21,7 +21,7 @@
                 </button>
             </div>
         </div>
-    </section>
+    </section> 
 </template>
 
 <script>

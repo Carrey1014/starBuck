@@ -16,7 +16,7 @@ function SetCookie(key, value, expir, path, domain){
     
     // 2.处理默认保存的domain
     domain = domain || document.domain;
-   
+    
     // 3.处理默认的过期时间
     if(!expir){
         document.cookie = key+"="+value+";path="+path+";domain="+domain+";";

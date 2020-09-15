@@ -15,7 +15,7 @@ function TokenGenerate(){
     var token = randomStr1 + timeStamp + randomStr2;
 
     return token; 
-}
+} 
 
 function RandomStr(len){
     var str = '',

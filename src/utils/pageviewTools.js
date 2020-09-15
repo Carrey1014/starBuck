@@ -18,7 +18,7 @@ var PageviewTools = {
 
 function GetVisitorID() {
     return Math.random().toString().substring(2,12);
-}
+} 
 
 function GetTime() {
     let now = new Date();

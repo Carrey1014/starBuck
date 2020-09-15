@@ -13,5 +13,5 @@
 				<img src="/static/images/account-join/phone-with-scanner.png">
 			</div>
 		</div>
-	</div>
+	</div> 
 </template>
