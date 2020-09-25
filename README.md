@@ -10,4 +10,3 @@
 ## 2 技术栈
 
 Vue + VueX + Vue-Router + Webpack + ES6 + Axios + Node(Express) + MongoDB
-
