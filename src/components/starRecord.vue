@@ -24,7 +24,7 @@
 			view(){
 				return this.StarType === 'level' ? 'StarLevel' : 'StarReward';
 			}
-		},
+		}, 
 		components: {
 			StarLevel: StarLevel,
 			StarReward: StarReward

@@ -22,7 +22,7 @@
 						</p>
 						<p class="t-margin">用一份心礼<br>让心意相随</p>
 						<p class="t-more transition">了解更多 ›</p>
-					</a>
+					</a> 
 				</li>
 				<li>
 					<a href="javscript:;" class="home-tmall-msr transition">

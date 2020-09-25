@@ -14,7 +14,7 @@
 									<span class="locator-arrow">
 										<img src="@/assets/icons/icon-locator-arrow.svg">
 									</span>
-								</section>
+								</section> 
 								<section class="search clearfix">
 									<div class="storeSearch">
 										<input type="text" placeholder="请输入地址查找门店">
@@ -136,7 +136,7 @@
 						storage: storage,
 						itemName: 'storesList',
 						exp: 1000*60*60*24*7
-					});
+					}); 
 
 					let sStorage = sessionStorage || null;
 					if(sStorage) {

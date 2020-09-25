@@ -21,7 +21,7 @@
 			showMenu(){
 				this.$emit("showMenuOverlay");
 			}
-		}
+		} 
 	}
 
 </script>

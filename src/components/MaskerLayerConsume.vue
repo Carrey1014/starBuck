@@ -13,7 +13,7 @@
 					<!-- <div class="date">{{detailOfItem.ConsumeDate ? detailOfItem.ConsumeDate.replace(/\//g,'-') : ''}}</div> -->
 				</div>
 				<hr />
-				<table>
+				<table> 
 					<tbody>
 						<tr>
 							<td>SR虚拟卡 ×1</td>

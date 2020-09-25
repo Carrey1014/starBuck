@@ -16,7 +16,7 @@
 									</ul>
 								</div>
 							</section>
-						</span>
+						</span> 
 					</nav-container>
 					<nav-overlay v-on:closeMenuOverlay="closeMenuExec" v-show="show_menu_bol">
 					</nav-overlay>

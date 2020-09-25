@@ -17,7 +17,7 @@
 										<li @click="curActive = 'all'">
 											<a href="javascript:;" :class="{'active-menu':curActive == 'all'}">
 												全部
-											</a>
+											</a> 
 										</li>
 										<li v-for="(menuBtn, index) in menuNavFilter" @click="curActive = index;">
 											<a href="javascript:;" :class="{'active-menu':curActive == index}">

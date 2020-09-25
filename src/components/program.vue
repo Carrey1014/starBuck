@@ -23,7 +23,7 @@
 				<div class="program-image" :class="{'onlogin':NickName}">
 					<img src="@/assets/images/logo-msr-new.svg">
 				</div>
-			</div>
+			</div> 
 		</div>
 	</section>
 </template>
